@@ -70,3 +70,9 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "yarn"
+
+gem "bootstrap", "~> 5.2"
+
+gem "node", "~> 2.1"
